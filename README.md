@@ -1,0 +1,1 @@
+As of right now this is a setup needed for starting the sampled values protocol
