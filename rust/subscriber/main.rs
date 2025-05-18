@@ -71,7 +71,7 @@ extern "C" fn sv_update_listener(
 
 fn main() {
     unsafe {
-        signal(2, sigint_handler); // SIGINT = 2
+        signal(2, sigint_handler);
 
         let receiver = SVReceiver_create();
 
