@@ -2,7 +2,7 @@ package main
 
 /*
 #cgo CFLAGS: -I../../src
-#cgo LDFLAGS: -L../../../build -liec61850
+#cgo LDFLAGS: -L../../build -liec61850
 #include "sv_subscriber_example.h"
 #include <stdio.h>
 #include <signal.h>
